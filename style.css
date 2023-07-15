@@ -1,0 +1,61 @@
+.btn{
+    width: 70px;
+    height: 70px;
+    color: black;
+    margin: 5px;
+    border: solid 0 white;
+    border-radius: 5px;
+    background-color: white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 30px;
+}
+.btn:active {
+    box-shadow: 2px 2px 5px #FFFF;
+}
+body{
+    background-color: black;
+    margin-top: -50px;
+}
+
+#output{
+    font-size: 80px;
+    width: 230px;
+    text-align: right;
+    color: #F5F2EC;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+    font-family: 'Cabin', sans-serif;
+}
+hr{
+    width: 332px;
+}
+.line{
+    margin-left: auto;
+    margin-right: auto;
+    width: 332px;
+}
+.body{
+    background-image: url("background.png");
+    background-color: #cccccc;
+    margin: 0px;
+    
+}
+.bottom {
+    padding: 20px;
+    height: 100px;
+    width: auto;
+    background-color: rgba(0, 0, 0, 0.7); 
+    margin-top: 50px;
+}
+  
+.text {
+    color: #F5F2EC;
+    width: 800px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+}
+
+#b17{
+    width:238px;
+}
